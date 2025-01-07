@@ -4,24 +4,24 @@ Este repositorio contiene varios proyectos de análisis de datos realizados en G
 
 Contenido del Repositorio
 
-#1. Proyectos incluidos
+1. Proyectos incluidos
 
-Análisis Exploratorio: Exploración inicial de datasets, estadísticas descriptivas y visualizaciones básicas.
+ - Análisis Exploratorio: Exploración inicial de datasets, estadísticas descriptivas y visualizaciones básicas.
 
-Relaciones entre Variables: Estudio de correlaciones y posibles patrones entre variables.
+ - Relaciones entre Variables: Estudio de correlaciones y posibles patrones entre variables.
 
-Proyectos Especiales: Temas específicos como análisis, ventas, o datos climáticos.
+ - Proyectos Especiales: Temas específicos como análisis, ventas, o datos climáticos.
 
 #2. Herramientas Utilizadas
 
-Python: Lenguaje principal para el análisis.
+ - Python: Lenguaje principal para el análisis.
 
-Librerías:
+ - Librerías:
 
-pandas para manipulación de datos.
+    - pandas para manipulación de datos.
 
-matplotlib y seaborn para visualización.
+    - matplotlib y seaborn para visualización.
 
-numpy para cálculos matemáticos.
+    - numpy para cálculos matemáticos.
 
-Otras librerías según el proyecto.
+    - Otras librerías según el proyecto.
