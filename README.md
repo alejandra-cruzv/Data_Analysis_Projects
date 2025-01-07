@@ -4,15 +4,15 @@ Este repositorio contiene varios proyectos de análisis de datos realizados en G
 
 Contenido del Repositorio
 
-##1. Proyectos incluidos
+#1. Proyectos incluidos
 
 Análisis Exploratorio: Exploración inicial de datasets, estadísticas descriptivas y visualizaciones básicas.
 
 Relaciones entre Variables: Estudio de correlaciones y posibles patrones entre variables.
 
-Proyectos Especiales: Temas específicos como análisis demográfico, ventas, o datos climáticos.
+Proyectos Especiales: Temas específicos como análisis, ventas, o datos climáticos.
 
-##2. Herramientas Utilizadas
+#2. Herramientas Utilizadas
 
 Python: Lenguaje principal para el análisis.
 
