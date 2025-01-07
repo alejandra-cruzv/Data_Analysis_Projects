@@ -12,7 +12,7 @@ Contenido del Repositorio
 
  - Proyectos Especiales: Temas específicos como análisis, ventas, o datos climáticos.
 
-#2. Herramientas Utilizadas
+2. Herramientas Utilizadas
 
  - Python: Lenguaje principal para el análisis.
 
